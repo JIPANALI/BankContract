@@ -1,3 +1,9 @@
+## Deployed Contracts
+
+| Contract | Network | Address |
+|----------|---------|---------|
+| Bank | Sepolia | [`0xaB2730a14002640730c529C91b53b87e6E06A3e9`](https://sepolia.etherscan.io/address/0xaB2730a14002640730c529C91b53b87e6E06A3e9) |
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
